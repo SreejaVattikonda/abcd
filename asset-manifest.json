@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SreejaVattikonda/abcd.git/static/css/main.ff02f4b5.css",
+    "main.js": "/SreejaVattikonda/abcd.git/static/js/main.f4e90446.js",
+    "static/js/592.729c14fc.chunk.js": "/SreejaVattikonda/abcd.git/static/js/592.729c14fc.chunk.js",
+    "static/media/Sreenath.jpg": "/SreejaVattikonda/abcd.git/static/media/Sreenath.b2fdea440609e534c1df.jpg",
+    "index.html": "/SreejaVattikonda/abcd.git/index.html",
+    "main.ff02f4b5.css.map": "/SreejaVattikonda/abcd.git/static/css/main.ff02f4b5.css.map",
+    "main.f4e90446.js.map": "/SreejaVattikonda/abcd.git/static/js/main.f4e90446.js.map",
+    "592.729c14fc.chunk.js.map": "/SreejaVattikonda/abcd.git/static/js/592.729c14fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.f4e90446.js"
+  ]
+}
